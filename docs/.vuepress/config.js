@@ -3,7 +3,7 @@ module.exports = {
     title: 'Jack的网站',
     description: '小破站，没啥好看',
     dest: './dist',
-	base:'/vuepress-blog/'
+	base:'/vuepress-blog/',
     port: '8081',
     head: [
         ['link', {rel: 'icon', href: '/rocket.png'}]
